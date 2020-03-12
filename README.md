@@ -10,3 +10,4 @@ It is developed as new one which is inherited from predecessors.
 The instructions on how to use Heritag (tag crypto project),
 Https://github.com/heritag
 
+Mar 12, 2020
